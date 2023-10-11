@@ -1,4 +1,5 @@
 const mongoose = require('mongoose');
+// const validator = require('validator');
 const urlAddress = require('../utils/constants');
 
 const movieSchema = new mongoose.Schema({
