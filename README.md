@@ -12,4 +12,4 @@ IP 62.84.117.83
 
 <!-- Frontend https://movies.tasyushka.nomoredomainsicu.ru -->
 
-Backend https://api.movies.tasyushka.nomoredomainsicu.ru
+Backend https://api.movies.tasyushka.nomoredomainsrocks.ru/
